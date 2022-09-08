@@ -1,0 +1,106 @@
+.body-section{
+    background-color:black;
+    overflow-x:hidden;
+    width:100vw;
+    height:auto;
+    padding:0px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:whitesmoke;
+    display:hidden;
+}
+
+.hero{
+    background-image:url('../assets/oil_painting.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    overflow:hidden;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    width:100vw;
+    height: 100vh;
+    margin: 0%;
+    border: 0%;
+    padding: 0px;
+}
+
+.container{
+    background-color:rgba(15, 16, 16, 0.6);
+    height:auto;
+    width:60vw;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    padding:3vw;
+    border-radius: 2vh;
+
+}
+
+u{
+    color:whitesmoke;
+}
+
+a{
+    color:whitesmoke;
+}
+
+.wrapper{
+    display:flex;
+    overflow:hidden;
+    justify-content:center,baseline;
+    column-count:6;
+    width:100vw;
+    height:8vh;
+    padding:5rem;
+    column-gap:7rem;
+
+}
+
+.heading-section{
+    display:flex;
+    overflow:hidden;
+    justify-content:center, top;
+    column-count:7;
+    width:100vw;
+    height:auto;
+    padding-top:1rem;
+    padding-left:3rem;
+    padding-bottom:1rem;
+    column-gap:5rem;
+
+}
+
+.essay-section{
+    margin:auto;
+    width:70vw;
+    padding-top:2rem;
+    padding-left:2rem;
+    display:flex;
+    flex-direction:column;
+    justify-content:center,left;
+
+}
+
+.image_in_essay{
+    width:50vw;
+    height:auto;
+}
+
+p{
+    line-height:2rem
+}
+
+.global-section{
+    padding:3rem;
+}
+
+table{
+    table-layout:fixed;
+    width:100%;
+}
+
+th, tr, td{
+    padding:20vh;
+    padding-bottom: 20vh;
+}
