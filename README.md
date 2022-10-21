@@ -12,7 +12,7 @@
   - If you drink too much electrolyte it will cause serious laxative
   - Don't try to participate in a sport's event after 4-hour sleep
   - You can't do NLP without Regex and list comprehension
-- Some github repo I am obssessed with:
+- 👾 Some github repo I am obssessed with:
   - [python-is-cool](https://github.com/chiphuyen/python-is-cool#python-is-cool) from Chip Huyen my Vietnamness homie
   - [lazynlp](https://github.com/chiphuyen/lazynlp) another one from Chip Huyen
   - [Mining the Social Web, 3rd Edition](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition)
