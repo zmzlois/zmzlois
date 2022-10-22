@@ -24,13 +24,13 @@
 ---
 ### Some quotes I love
 
-***Live in the future, and build what's missing.***<br>
--- [How to get start up ideas](http://www.paulgraham.com/startupideas.html), Paul Graham
+Live in the future, and build what's missing.<br>
+-- *[How to get start up ideas](http://www.paulgraham.com/startupideas.html), Paul Graham*
 <br>
 <br>
-*It’s almost as though you approached everything looking for ways it could be better, whatever it was. A part of you is always asking, “Why is something done this way? Is this the best way it can be done?” You have to be fundamentally skeptical about everything.*<br>
--- [The McKinsey Way](https://www.amazon.co.uk/McKinsey-Way-Techniques-Strategic-Consultants/dp/0070534489), Ethan M. Rasiel
+It’s almost as though you approached everything looking for ways it could be better, whatever it was. A part of you is always asking, “Why is something done this way? Is this the best way it can be done?” You have to be fundamentally skeptical about everything.<br>
+-- *[The McKinsey Way](https://www.amazon.co.uk/McKinsey-Way-Techniques-Strategic-Consultants/dp/0070534489), Ethan M. Rasiel*
 <br>
 <br>
-*You can never understand one language until you understand at least two.*<br>
--- Geoffrey Willans
+You can never understand one language until you understand at least two.<br>
+-- *Geoffrey Willans*
