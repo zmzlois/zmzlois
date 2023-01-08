@@ -21,7 +21,7 @@
 ---
 ### Some quotes I love
 
-Live in the future, and build what's missing.<br>
+Live in the future, and build what seems interesting.<br>
 -- *[How to get start up ideas](http://www.paulgraham.com/startupideas.html), Paul Graham*
 <br>
 <br>
