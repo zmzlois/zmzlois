@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1 align="center">Hi 👋, this is Lois</h1>
-<h3 align="center">Fullstack developer based in London</h3>
+<h3 align="center">Based in London</h3>
 
 
 
