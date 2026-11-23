@@ -5,4 +5,4 @@
 
   <br />
 
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zmzlois?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+  [![Lois's GitHub activity](../stats/images/userstats.svg)](https://github.com/cicirello/user-statistician)
