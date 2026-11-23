@@ -5,4 +5,9 @@
 
   <br />
 
-  [![Lois's GitHub activity](../stats/images/userstats.svg)](https://github.com/cicirello/user-statistician)
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=zmzlois&amp;show_icons=true&amp;theme=github_dark" />
+      <img alt="Lois's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=zmzlois&amp;show_icons=true" />
+    </picture>
+  </a>
